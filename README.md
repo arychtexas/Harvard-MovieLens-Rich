@@ -1,0 +1,2 @@
+# Harvard-MovieLens-Rich
+Since the late 1970’s corporations have used machine learning recommendation systems to understand user selections, user trends and consumer demands. Machine learning algorithms in 2022 can now predict future interests, engagement, current taste, new product experimentation and more!  I will use The University of Minnesota team lab (Grouplens) MovieLens 10m dataset for this project. Grouplens selected 72,000 users at random to rate at least 20 movies for a combined 10 million ratings (view Reference Section for more information).
